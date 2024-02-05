@@ -7,5 +7,12 @@ body {
     background-color: black;
     color: white;
     border-radius: 8px;
-    font-size: 1.5vw;
+    font-size: 1.4vw;
+}
+
+.navbar:hover {
+    background-color: gray;
+    color: black;
+    border: 0px;
+    font-size: 1.4vw;;
 }
